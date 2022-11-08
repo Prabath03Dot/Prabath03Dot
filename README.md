@@ -2,7 +2,8 @@
 I am currently a CIS Undergradute in [Sabaragamuwa University](https://www.sab.ac.lk/app/cis) of Sri Lanka and working as a Quality Assurance Engineer sharpening Selenium, Cypress Automation Frameworks.
 
 
-# Stackoverflow:
+# ![stackoverflow](https://user-images.githubusercontent.com/48862955/200622507-4f01454a-0b3c-43f4-9cd2-16a8ccee8c14.png)  Stackoverflow:
+
 [![user:14603518's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/14603518?theme=dark&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
 
