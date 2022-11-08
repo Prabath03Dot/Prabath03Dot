@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Quality Assurance Engineer sharpening Selenium and Cypress Automation Frameworks.
+I am currently a CIS Undergradute in [Sabaragamuwa University](https://www.sab.ac.lk/app/cis) of Sri Lanka and working as a Quality Assurance Engineer sharpening Selenium, Cypress Automation Frameworks.
 
 
 # 💻 Tech Stack:
