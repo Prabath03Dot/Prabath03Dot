@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a CIS Undergradute in [Sabaragamuwa University](https://www.sab.ac.lk/app/cis) of Sri Lanka and working as a Quality Assurance Engineer sharpening Selenium, Cypress, Cucumber Automation Frameworks , Postman, Katalon Studio.
+I am CIS Graduate in [Sabaragamuwa University](https://www.sab.ac.lk/app/cis) of Sri Lanka and working as a Quality Assurance Engineer sharpening Selenium, Cypress, Cucumber Automation Frameworks, Postman.
 
 
 # ![stackoverflow](https://user-images.githubusercontent.com/48862955/200622507-4f01454a-0b3c-43f4-9cd2-16a8ccee8c14.png)  Stackoverflow:
